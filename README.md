@@ -1,46 +1,4 @@
-# Prov - Flutter Firebase App
 
-A comprehensive Flutter application demonstrating state management with Provider pattern and Firebase integration for authentication and data storage.
-
-## 🚀 Features
-
-- **Counter App**: Interactive counter with Provider state management
-- **Task Management**: Create, read, update, and delete tasks
-- **User Authentication**: Sign up and login functionality with Firebase Auth
-- **Cloud Storage**: Data persistence using Cloud Firestore
-- **Provider Pattern**: Clean state management architecture
-- **Custom Widgets**: Reusable UI components
-
-## 📱 Screenshots
-
-_Add your app screenshots here_
-
-## 🛠️ Technologies Used
-
-- **Flutter**: Cross-platform mobile development framework
-- **Firebase Auth**: User authentication service
-- **Cloud Firestore**: NoSQL document database
-- **Provider**: State management solution
-- **Dart**: Programming language
-
-## 📋 Prerequisites
-
-Before running this project, make sure you have:
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest stable version)
-- [Dart SDK](https://dart.dev/get-dart) (comes with Flutter)
-- [Node.js](https://nodejs.org/) (for Firebase CLI)
-- Android Studio / Xcode for mobile development
-- A Firebase project set up
-
-## 🔧 Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/prov.git
-cd prov
-```
 
 ### 2. Install Dependencies
 
